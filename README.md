@@ -4,7 +4,8 @@
 
 **Project Structure (Maven-based):**
 **src/main/java/com/framework**
-** ├── base/BaseTest.java** 
+** ├── base/BaseTest.java**
+
 ** ├── pages/LoginPageFactory.java** 
 ** ├── pages/LoginPageBy.java** 
 ** ├── utils/JavaScriptUtils.java** 
