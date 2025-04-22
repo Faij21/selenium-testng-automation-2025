@@ -3,7 +3,7 @@
 **Java version recommended: 17**
 
 **Project Structure (Maven-based):**
-**src/main/java/com/framework**
+**src/main/java/com/framework**  
 ** ├── base/BaseTest.java**
 
 ** ├── pages/LoginPageFactory.java** 
